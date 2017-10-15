@@ -4,8 +4,3 @@ asdfasdfadsfsd`````:asdfsad
 
 adsf
 asdfasdf
-<<<<<<< HEAD
-asdfasd
-
-=======
->>>>>>> newbranch
